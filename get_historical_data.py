@@ -6,13 +6,13 @@ from sklearn.svm import SVR
 import numpy as np
 import pylab as pl
 
+price = []
 if len(sys.argv) < 2: 
 	print 'python get_historical_data.py [TICKER]'
 else :
 	print 'Stock Prices for ' + sys.argv[1]
 	pricecsv = urllib2.urlopen('http://ichart.yahoo.com/table.csv?s=' + sys.argv[1]).read()
 	reader = csv.reader(pricecsv.split('\n'), delimiter=',')
-	price = []
 	for r in reader:
 		if len(r) >= 1:
 			price.append(r[len(r)-1])
@@ -37,9 +37,9 @@ y = y.reshape(-1)
 print X.shape
 print y.shape
 
-svr_rbf = SVR(kernel='rbf', C=1e3, gamma=0.1)
-svr_lin = SVR(kernel='linear', C=1e3)
-svr_poly = SVR(kernel='poly', C=1e3, degree=2)
+svr_rbf = SVR(kernel='rbf', C=1e3, gamma=0.1, max_iter = 1e5)
+svr_lin = SVR(kernel='linear', C=1e3, max_iter = 1e5)
+svr_poly = SVR(kernel='poly', C=1e3, degree=2, max_iter = 1e5)
 y_rbf = svr_rbf.fit(X, y).predict(X)
 y_lin = svr_lin.fit(X, y).predict(X)
 y_poly = svr_poly.fit(X, y).predict(X)
@@ -54,4 +54,3 @@ pl.ylabel('target')
 pl.title('Support Vector Regression')
 pl.legend()
 pl.show()
-

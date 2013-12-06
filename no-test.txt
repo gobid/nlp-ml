@@ -1,0 +1,3282 @@
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040819:20040819
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040819:20040819"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.140132,
+  "formattedSearchTime": "0.14",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040820:20040820
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040820:20040820"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.111182,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040821:20040821
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040821:20040821"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.106254,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040822:20040822
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040822:20040822"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.123217,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040823:20040823
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040823:20040823"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.110059,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040824:20040824
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040824:20040824"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.116072,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040825:20040825
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040825:20040825"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.126101,
+  "formattedSearchTime": "0.13",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040826:20040826
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040826:20040826"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.111969,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040827:20040827
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040827:20040827"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.103437,
+  "formattedSearchTime": "0.10",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040828:20040828
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040828:20040828"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.133086,
+  "formattedSearchTime": "0.13",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040829:20040829
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040829:20040829"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.114362,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040830:20040830
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040830:20040830"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.141511,
+  "formattedSearchTime": "0.14",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040831:20040831
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040831:20040831"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.112875,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040901:20040901
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040901:20040901"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.108521,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040902:20040902
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040902:20040902"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.098333,
+  "formattedSearchTime": "0.10",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040903:20040903
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040903:20040903"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.105647,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040904:20040904
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040904:20040904"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.128586,
+  "formattedSearchTime": "0.13",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040905:20040905
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040905:20040905"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.103607,
+  "formattedSearchTime": "0.10",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040906:20040906
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040906:20040906"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.157998,
+  "formattedSearchTime": "0.16",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040907:20040907
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040907:20040907"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.175555,
+  "formattedSearchTime": "0.18",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040908:20040908
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040908:20040908"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.111919,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040909:20040909
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040909:20040909"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.251285,
+  "formattedSearchTime": "0.25",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040910:20040910
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040910:20040910"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.116793,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040911:20040911
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040911:20040911"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.1325,
+  "formattedSearchTime": "0.13",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040912:20040912
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040912:20040912"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.113526,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040913:20040913
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040913:20040913"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.11839,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040914:20040914
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040914:20040914"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.106301,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040915:20040915
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040915:20040915"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.104617,
+  "formattedSearchTime": "0.10",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040916:20040916
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040916:20040916"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.120791,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040917:20040917
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040917:20040917"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.173732,
+  "formattedSearchTime": "0.17",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040918:20040918
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040918:20040918"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.111017,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040919:20040919
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040919:20040919"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.106015,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040920:20040920
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040920:20040920"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.116143,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040921:20040921
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040921:20040921"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.111244,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040922:20040922
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040922:20040922"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.111643,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040923:20040923
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040923:20040923"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.167758,
+  "formattedSearchTime": "0.17",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040924:20040924
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040924:20040924"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.106947,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040925:20040925
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040925:20040925"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.128983,
+  "formattedSearchTime": "0.13",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040926:20040926
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040926:20040926"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.120134,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040927:20040927
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040927:20040927"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.09255,
+  "formattedSearchTime": "0.09",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040928:20040928
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040928:20040928"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.110127,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040929:20040929
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040929:20040929"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.112892,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20040930:20040930
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "2",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 2,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20040930:20040930"
+   }
+  ]
+ },
+ "context": {
+  "title": "Anyurl"
+ },
+ "searchInformation": {
+  "searchTime": 0.11881,
+  "formattedSearchTime": "0.12",
+  "totalResults": "2",
+  "formattedTotalResults": "2"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "AAPL Basic Chart | Apple Inc. Stock - Yahoo! UK & Ireland Finance",
+   "htmlTitle": "\u003cb\u003eAAPL\u003c/b\u003e Basic Chart | \u003cb\u003eApple Inc\u003c/b\u003e. Stock - Yahoo! UK &amp; Ireland Finance",
+   "link": "http://uk.finance.yahoo.com/q/bc?s=AAPL",
+   "displayLink": "uk.finance.yahoo.com",
+   "snippet": "View the basic Apple Inc. chart on Yahoo! Finance UK. Find Apple Inc. share \nprice chart, indicators, historical prices, headlines and more.",
+   "htmlSnippet": "View the basic \u003cb\u003eApple Inc\u003c/b\u003e. chart on Yahoo! Finance UK. Find \u003cb\u003eApple Inc\u003c/b\u003e. share \u003cbr\u003e\nprice chart, indicators, historical prices, headlines and more.",
+   "cacheId": "to8bk9pY7b8J",
+   "formattedUrl": "uk.finance.yahoo.com/q/bc?s=AAPL",
+   "htmlFormattedUrl": "uk.finance.yahoo.com/q/bc?s=\u003cb\u003eAAPL\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://chart.finance.yahoo.com/z?s=AAPL&t=1y&q=&l=&z=l&a=v&p=s&lang=en-GB&region=GB"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "291",
+      "height": "173",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4RqUENBwNgM5wHxnes-1HzbEC2venGkVOI1XIUckk7avz5YaQC98qFN8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AAPL Analyst Opinion | Apple Inc. Stock - Yahoo! UK & Ireland ...",
+   "htmlTitle": "\u003cb\u003eAAPL\u003c/b\u003e Analyst Opinion | \u003cb\u003eApple Inc\u003c/b\u003e. Stock - Yahoo! UK &amp; Ireland \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://uk.finance.yahoo.com/q/ao?s=AAPL",
+   "displayLink": "uk.finance.yahoo.com",
+   "snippet": "Find Apple Inc. analyst opinions on Yahoo! Finance UK. Read analyst \nrecommendations, targets, upgrade and downgrade history and more.",
+   "htmlSnippet": "Find \u003cb\u003eApple Inc\u003c/b\u003e. analyst opinions on Yahoo! Finance UK. Read analyst \u003cbr\u003e\nrecommendations, targets, upgrade and downgrade history and more.",
+   "cacheId": "_6qhzjCpNCYJ",
+   "formattedUrl": "uk.finance.yahoo.com/q/ao?s=AAPL",
+   "htmlFormattedUrl": "uk.finance.yahoo.com/q/ao?s=\u003cb\u003eAAPL\u003c/b\u003e"
+  }
+ ]
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041001:20041001
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041001:20041001"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.207524,
+  "formattedSearchTime": "0.21",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041002:20041002
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "1",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 1,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041002:20041002"
+   }
+  ]
+ },
+ "context": {
+  "title": "Anyurl"
+ },
+ "searchInformation": {
+  "searchTime": 0.109919,
+  "formattedSearchTime": "0.11",
+  "totalResults": "1",
+  "formattedTotalResults": "1"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "vxapl",
+   "htmlTitle": "vxapl",
+   "link": "http://www.cboe.com/VXAPL",
+   "displayLink": "www.cboe.com",
+   "snippet": "Home » Products ». Products. Products Main · Index Options · Index Microsites · \nEquity Options · Mini Options ... CBOE Equity VIX® on Apple (ticker - \"VXAPL\") ...",
+   "htmlSnippet": "Home » \u003cb\u003eProducts\u003c/b\u003e ». \u003cb\u003eProducts\u003c/b\u003e. \u003cb\u003eProducts\u003c/b\u003e Main &middot; Index Options &middot; Index Microsites &middot; \u003cbr\u003e\nEquity Options &middot; Mini Options \u003cb\u003e...\u003c/b\u003e CBOE Equity VIX® on \u003cb\u003eApple\u003c/b\u003e (ticker - &quot;VXAPL&quot;)&nbsp;\u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YXQZQxQoKQkJ",
+   "formattedUrl": "www.cboe.com/VXAPL",
+   "htmlFormattedUrl": "www.cboe.com/VXAPL",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cboe.com/micro/EquityVix/VXAPL/images/VXAPL-ticker.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "92",
+      "height": "80",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvOQnsoJDQLcqm4k8WrVnqz6IV09c6vHEovnT_dlBscvpZZvOcUeO"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "© 2013 CBOE. All rights reserved.",
+      "og:title": "Chicago Board Options Exchange - The World's Largest Options Exchange",
+      "og:type": "company",
+      "og:url": "http://www.cboe.com",
+      "og:image": "http://www.cboe.com/images/logo.gif",
+      "og:site_name": "CBOE.com",
+      "fb:admins": "100002307967344"
+     }
+    ]
+   }
+  }
+ ]
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041003:20041003
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041003:20041003"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.117996,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041004:20041004
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041004:20041004"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.13034,
+  "formattedSearchTime": "0.13",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041005:20041005
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041005:20041005"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.105718,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041006:20041006
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041006:20041006"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.09411,
+  "formattedSearchTime": "0.09",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041007:20041007
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041007:20041007"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.112623,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041008:20041008
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041008:20041008"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.109466,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041009:20041009
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041009:20041009"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.110418,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041010:20041010
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041010:20041010"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.105335,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041011:20041011
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041011:20041011"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.111174,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041012:20041012
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041012:20041012"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.105683,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041013:20041013
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041013:20041013"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.113352,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041014:20041014
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "1",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 1,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041014:20041014"
+   }
+  ]
+ },
+ "context": {
+  "title": "Anyurl"
+ },
+ "searchInformation": {
+  "searchTime": 0.23115,
+  "formattedSearchTime": "0.23",
+  "totalResults": "1",
+  "formattedTotalResults": "1"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "AAPL Technical Analysis | Apple Inc. Stock - Yahoo! UK & Ireland ...",
+   "htmlTitle": "\u003cb\u003eAAPL\u003c/b\u003e Technical Analysis | \u003cb\u003eApple Inc\u003c/b\u003e. Stock - Yahoo! UK &amp; Ireland \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://uk.finance.yahoo.com/q/ta?s=AAPL",
+   "displayLink": "uk.finance.yahoo.com",
+   "snippet": "The latest Apple Inc. share price from Yahoo! Finance UK. Find Apple Inc. share \nprice, news, last trades, change, detailed charts, historical prices and more.",
+   "htmlSnippet": "The latest \u003cb\u003eApple Inc\u003c/b\u003e. share price from Yahoo! Finance UK. Find \u003cb\u003eApple Inc\u003c/b\u003e. share \u003cbr\u003e\nprice, news, last trades, change, detailed charts, historical prices and more.",
+   "cacheId": "RfsUKgPQk9YJ",
+   "formattedUrl": "uk.finance.yahoo.com/q/ta?s=AAPL",
+   "htmlFormattedUrl": "uk.finance.yahoo.com/q/ta?s=\u003cb\u003eAAPL\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://chart.finance.yahoo.com/z?s=AAPL&t=1y&q=&l=&z=l&a=v&p=s&lang=en-GB&region=GB"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "291",
+      "height": "173",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4RqUENBwNgM5wHxnes-1HzbEC2venGkVOI1XIUckk7avz5YaQC98qFN8"
+     }
+    ]
+   }
+  }
+ ]
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041015:20041015
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "1",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 1,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041015:20041015"
+   }
+  ]
+ },
+ "context": {
+  "title": "Anyurl"
+ },
+ "searchInformation": {
+  "searchTime": 0.16218,
+  "formattedSearchTime": "0.16",
+  "totalResults": "1",
+  "formattedTotalResults": "1"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Financial Astrology of Apple Computer, Inc. - Astrology Chart for ...",
+   "htmlTitle": "Financial Astrology of \u003cb\u003eApple Computer\u003c/b\u003e, Inc. - Astrology Chart for \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.magiastrology.com/incorporationdates_ndx100/incorp_100/aapl.htm",
+   "displayLink": "www.magiastrology.com",
+   "snippet": "The Financial Astrology of Apple Computer, Inc. is based on the astrology chart of \nApple Computer, Inc. We believe we can utilize Magi Astrology to forecast the ...",
+   "htmlSnippet": "The Financial Astrology of \u003cb\u003eApple Computer\u003c/b\u003e, Inc. is based on the astrology chart of \u003cbr\u003e\n\u003cb\u003eApple Computer\u003c/b\u003e, Inc. We believe we can utilize Magi Astrology to forecast the&nbsp;\u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "olqECnx9zzkJ",
+   "formattedUrl": "www.magiastrology.com/incorporationdates.../incorp_100/aapl.htm",
+   "htmlFormattedUrl": "www.magiastrology.com/\u003cb\u003einc\u003c/b\u003eorporationdates.../\u003cb\u003einc\u003c/b\u003eorp_100/\u003cb\u003eaapl\u003c/b\u003e.htm"
+  }
+ ]
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041016:20041016
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041016:20041016"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.11645,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041017:20041017
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041017:20041017"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.113641,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041018:20041018
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041018:20041018"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.103016,
+  "formattedSearchTime": "0.10",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041019:20041019
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041019:20041019"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.174074,
+  "formattedSearchTime": "0.17",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041020:20041020
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041020:20041020"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.111808,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041021:20041021
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041021:20041021"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.112456,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041022:20041022
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "1",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 1,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041022:20041022"
+   }
+  ]
+ },
+ "context": {
+  "title": "Anyurl"
+ },
+ "searchInformation": {
+  "searchTime": 0.125371,
+  "formattedSearchTime": "0.13",
+  "totalResults": "1",
+  "formattedTotalResults": "1"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Apple Retail Store - Danbury Fair Mall",
+   "htmlTitle": "\u003cb\u003eApple\u003c/b\u003e Retail Store - Danbury Fair Mall",
+   "link": "http://www.apple.com/retail/danburyfairmall/",
+   "displayLink": "www.apple.com",
+   "snippet": "Apple Store Danbury Fair Mall store hours, contact information, and weekly \ncalendar of ... Shop for products from your iPad or iPhone and pick them up in \nstore.",
+   "htmlSnippet": "\u003cb\u003eApple\u003c/b\u003e Store Danbury Fair Mall store hours, contact information, and weekly \u003cbr\u003e\ncalendar of \u003cb\u003e...\u003c/b\u003e Shop for \u003cb\u003eproducts\u003c/b\u003e from your iPad or iPhone and pick them up in \u003cbr\u003e\nstore.",
+   "cacheId": "6XEjZPHe9BUJ",
+   "formattedUrl": "www.apple.com/retail/danburyfairmall/",
+   "htmlFormattedUrl": "www.\u003cb\u003eapple\u003c/b\u003e.com/retail/danburyfairmall/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.apple.com/retail/danburyfairmall/images/danburyfairmall_hero.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLrhSx6Rad_L1a9JBWdjQ3ZHDve9YTtyal2_UlbqgdQs3UTtI7fxf46uSO"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Apple Inc.",
+      "viewport": "width=1024",
+      "omni_page": "Retail Store - Danbury Fair Mall : R093"
+     }
+    ]
+   }
+  }
+ ]
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041023:20041023
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041023:20041023"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.115818,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041024:20041024
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041024:20041024"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.113978,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041025:20041025
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041025:20041025"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.095673,
+  "formattedSearchTime": "0.10",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041026:20041026
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041026:20041026"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.214266,
+  "formattedSearchTime": "0.21",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041027:20041027
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041027:20041027"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.150966,
+  "formattedSearchTime": "0.15",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041028:20041028
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041028:20041028"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.118426,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041029:20041029
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041029:20041029"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.13182,
+  "formattedSearchTime": "0.13",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041030:20041030
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041030:20041030"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.109996,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041031:20041031
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041031:20041031"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.105571,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041101:20041101
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041101:20041101"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.11189,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041102:20041102
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041102:20041102"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.097902,
+  "formattedSearchTime": "0.10",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041103:20041103
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041103:20041103"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.11285,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041104:20041104
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "2",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 2,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041104:20041104"
+   }
+  ]
+ },
+ "context": {
+  "title": "Anyurl"
+ },
+ "searchInformation": {
+  "searchTime": 0.175863,
+  "formattedSearchTime": "0.18",
+  "totalResults": "2",
+  "formattedTotalResults": "2"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Apple Inc. (AAPL) After Hours Chart - NASDAQ.com",
+   "htmlTitle": "\u003cb\u003eApple Inc\u003c/b\u003e. (\u003cb\u003eAAPL\u003c/b\u003e) After Hours Chart - NASDAQ.com",
+   "link": "http://www.nasdaq.com/symbol/aapl/after-hours-chart",
+   "displayLink": "www.nasdaq.com",
+   "snippet": "View after hours stock charts for Apple Inc.(AAPL) and all the stocks you follow on \nNASDAQ.com.",
+   "htmlSnippet": "View after hours stock charts for \u003cb\u003eApple Inc\u003c/b\u003e.(\u003cb\u003eAAPL\u003c/b\u003e) and all the stocks you follow on \u003cbr\u003e\nNASDAQ.com.",
+   "cacheId": "BmOSJtr7CjAJ",
+   "formattedUrl": "www.nasdaq.com/symbol/aapl/after-hours-chart",
+   "htmlFormattedUrl": "www.nasdaq.com/symbol/\u003cb\u003eaapl\u003c/b\u003e/after-hours-chart",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://charting.nasdaq.com/ext/charts.dll?2-1-17-0-0-016002000-03NA000000AAPL-&WD=238-HT=230"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "190",
+      "height": "184",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRI9NU8t-z3OXoA-ibSTTYiVADj0c-cl_Jw8ImMjMgtIJFhVEfe0zI0UyXi"
+     }
+    ],
+    "metatags": [
+     {
+      "classification": "Nasdaq Stock Market Information",
+      "rating": "General",
+      "updated": "daily",
+      "distribution": "Global",
+      "objecttype": "Document",
+      "author": "Text/notepad (TKMSA;JBH1) [Netscape, MSIE,AOL, Mosaic]",
+      "og:title": "ExtendedTrading Charts",
+      "og:type": "website",
+      "og:site_name": "NASDAQ.com",
+      "og:image": "http://content.nasdaq.com/images/Q-logo.jpg",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apple Inc. Pre-Market Trading - NASDAQ.com",
+   "htmlTitle": "\u003cb\u003eApple Inc\u003c/b\u003e. Pre-Market Trading - NASDAQ.com",
+   "link": "http://www.nasdaq.com/symbol/aapl/premarket",
+   "displayLink": "www.nasdaq.com",
+   "snippet": "Apple Inc. (AAPL) Pre-Market Trading - View free premarket stock trades at \nNASDAQ.com.",
+   "htmlSnippet": "\u003cb\u003eApple Inc\u003c/b\u003e. (\u003cb\u003eAAPL\u003c/b\u003e) Pre-Market Trading - View free premarket stock trades at \u003cbr\u003e\nNASDAQ.com.",
+   "cacheId": "3wJh6mrrJPcJ",
+   "formattedUrl": "www.nasdaq.com/symbol/aapl/premarket",
+   "htmlFormattedUrl": "www.nasdaq.com/symbol/\u003cb\u003eaapl\u003c/b\u003e/premarket",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://content.nasdaq.com/images/Q-logo.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Apple Inc. (AAPL) Pre-Market Trading",
+      "og:type": "website",
+      "og:site_name": "NASDAQ.com",
+      "og:url": "http://www.nasdaq.com/symbol/aapl/premarket",
+      "og:image": "http://content.nasdaq.com/images/Q-logo.jpg",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  }
+ ]
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041105:20041105
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041105:20041105"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.305585,
+  "formattedSearchTime": "0.31",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041106:20041106
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041106:20041106"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.111229,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041107:20041107
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041107:20041107"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.125727,
+  "formattedSearchTime": "0.13",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041108:20041108
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041108:20041108"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.118452,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041109:20041109
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041109:20041109"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.140503,
+  "formattedSearchTime": "0.14",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041110:20041110
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041110:20041110"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.110221,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041111:20041111
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041111:20041111"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.125069,
+  "formattedSearchTime": "0.13",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041112:20041112
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041112:20041112"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.10814,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041113:20041113
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041113:20041113"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.113208,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041114:20041114
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041114:20041114"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.168286,
+  "formattedSearchTime": "0.17",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041115:20041115
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041115:20041115"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.110266,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041116:20041116
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041116:20041116"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.104635,
+  "formattedSearchTime": "0.10",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041117:20041117
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041117:20041117"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.100212,
+  "formattedSearchTime": "0.10",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041118:20041118
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041118:20041118"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.100593,
+  "formattedSearchTime": "0.10",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041119:20041119
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041119:20041119"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.103404,
+  "formattedSearchTime": "0.10",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041120:20041120
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041120:20041120"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.187624,
+  "formattedSearchTime": "0.19",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041121:20041121
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041121:20041121"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.129855,
+  "formattedSearchTime": "0.13",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041122:20041122
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041122:20041122"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.114055,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041123:20041123
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041123:20041123"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.101695,
+  "formattedSearchTime": "0.10",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041124:20041124
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041124:20041124"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.105153,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041125:20041125
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041125:20041125"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.116365,
+  "formattedSearchTime": "0.12",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041126:20041126
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041126:20041126"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.113277,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
+url: https://www.googleapis.com/customsearch/v1?key=AIzaSyDDp9yCeGfA7ZkVplHopyrc4nIoPvPcGsU&cx=018061362833819783195:u5g6pmnm-v4&q=AAPL%20Apple%20Inc.&sort=date:r:20041127:20041127
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - AAPL Apple Inc.",
+    "totalResults": "0",
+    "searchTerms": "AAPL Apple Inc.",
+    "count": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018061362833819783195:u5g6pmnm-v4",
+    "sort": "date:r:20041127:20041127"
+   }
+  ]
+ },
+ "searchInformation": {
+  "searchTime": 0.111446,
+  "formattedSearchTime": "0.11",
+  "totalResults": "0",
+  "formattedTotalResults": "0"
+ }
+}
+
